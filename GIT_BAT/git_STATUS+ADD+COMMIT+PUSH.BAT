@@ -1,5 +1,5 @@
 @REM  cd.. devi posizionarti su git_desktop
-CD ..
+CD c:\CASA\LINGUAGGI\CPP\GIT_BAT\
 
 dir 
 
@@ -12,7 +12,7 @@ ECHO pausa di 3 secondi per il controllo
 
 
 git add .
-git commit "aggiornamento"
+git commit -m "aggiornamento"
 
 @rem pausa di 20 secondi per consentire il commit
 
